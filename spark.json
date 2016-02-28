@@ -1,3 +1,5 @@
 {
- "name":"SoftwareServo"
+ "name":"SoftwareServo",
+ "author": "Ardrino",
+ "version": "1.0.0"
 }
